@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/Scenes/Robot_Consrtuction.unity
+    guid: 49052ab4d574b9b4cb55b17e6b16b5c6
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 912c796f6c560944390a1b3788a22e01, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
